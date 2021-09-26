@@ -1,1 +1,13 @@
 @import 'semantic-ui';
+
+.chatbox {
+  height: 450px;
+}
+
+.power-icon-container span {
+  display: block;
+  border: 4px solid rgba(0, 0, 0, .2);
+  border-radius: 50%;
+  padding: 16px;
+  margin-bottom: 20px;
+}
